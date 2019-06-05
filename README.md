@@ -1,6 +1,7 @@
 # Final Project
 
 Zijian Ding, zding@ucsd.edu
+Yidi Zhu, yizhu@ucsd.edu
 
 ## Abstract Proposal
 
